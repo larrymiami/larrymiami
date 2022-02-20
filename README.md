@@ -15,7 +15,7 @@ Areas of Expertise:
 • Accessibility
 
 Core Technologies: 
-• Front-end Development — React, TypeScript, MobX, Emotion, and Styled-component
+• Front-end Development — React, TypeScript, Emotion, and Styled-component
 • Marketing — Google Analytics, MailChimp
 • Team Management — Trello, Slack, Pivotal Tracker
 
