@@ -4,8 +4,20 @@
 
 <p>Welcome to my page! </br> I'm Larry, FrontEnd Engineer from <img src="https://flagcdn.com/32x24/ke.png" width="20"/> <b>Mombasa, Kenya</b>
 
-- 🌱  I’m currently learning Erlang(Elixir) && Smart Contracts(Solidy).
+- I’m passionate about FrontEnd architecture, design systems and building UI Components using React, TypeScript, and CSS-in-JS (Emotion).
+- 🌱  I’m currently learning Erlang(Elixir) && Smart Contracts(Solidity).
 - 💬  Ask me about anything related to Javascript, Nextjs, React, GraphQL
+
+Areas of Expertise:
+• Design Systems
+• Front-end Engineering
+• Component Development
+• Accessibility
+
+Core Technologies: 
+• Front-end Development — React, TypeScript, MobX, Emotion, and Styled-component
+• Marketing — Google Analytics, MailChimp
+• Team Management — Trello, Slack, Pivotal Tracker
 
 
 <h3>Lets Connect</h3>
