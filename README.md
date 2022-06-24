@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Sadly i got <b>LOCKED OUT</b>of my first account <td><a href="https://github.com/miami78"><b>HERE</b></a>, anywho! </p>
+<p>Sadly i got <b>LOCKED OUT</b> of my first account <td><a href="https://github.com/miami78"><b>HERE</b></a>, anywho! </p>
 
 <p>Welcome to my page! </br> I'm Larry, FrontEnd Engineer from <img src="https://flagcdn.com/32x24/ke.png" width="20"/> <b>Nairobi, Kenya</b>
 
