@@ -2,7 +2,7 @@
 
 <p>Sadly i got <b>LOCKED OUT</b> of my first account <td><a href="https://github.com/miami78"><b>HERE</b></a>, anywho! </p>
 
-<p>Welcome to my page! </br> I'm Larry, FrontEnd Engineer from <img src="https://flagcdn.com/32x24/ke.png" width="20"/> <b>Nairobi, Kenya</b>
+<p>Welcome to my page! </br> I'm Larry, Product Engineer from <img src="https://flagcdn.com/32x24/ke.png" width="20"/> <b>Nairobi, Kenya</b>
 
 - I’m passionate about FrontEnd architecture, design systems and building UI Components using React, TypeScript, and CSS-in-JS (Emotion).
 - 🌱  I’m currently learning Flutter && Smart Contracts(Solidity).
