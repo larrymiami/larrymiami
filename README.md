@@ -5,7 +5,7 @@
 <p>Welcome to my page! </br> I'm Larry, Product Engineer from <img src="https://flagcdn.com/32x24/ke.png" width="20"/> <b>Nairobi, Kenya</b>
 
 - I’m passionate about FrontEnd architecture, design systems and building UI Components using React, TypeScript, and CSS-in-JS (Emotion).
-- 🌱  I’m currently learning Flutter && Smart Contracts(Solidity).
+- 🌱  I’m currently learning React Native.
 - 💬  Ask me about anything related to Javascript, Nextjs, React, GraphQL
 
 Areas of Expertise:
