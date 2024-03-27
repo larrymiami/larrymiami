@@ -86,4 +86,4 @@ Core Technologies:
   <tbody>
 </table>
 
-![Miami's github stats](https://github-readme-stats.vercel.app/api?username=miami78)
+![Miami's github stats](https://github-readme-stats.vercel.app/api?username=larrymiami)
