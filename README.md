@@ -4,7 +4,7 @@
 
 Nairobi, Kenya · [Portfolio](https://miami-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/larrymiami/)
 
-I build software for real-world operations, from product workflows and backend systems to cloud infrastructure, DevSecOps, and security. I care about the system around the interface: identity, authorization, data boundaries, delivery, observability, failure modes, and evidence that controls actually work.
+I build software where product workflows, backend systems, cloud infrastructure, and security have to work together. I care about identity, authorization, data boundaries, delivery, observability, failure modes, and evidence that controls actually work.
 
 ## What I work across
 
@@ -16,16 +16,17 @@ I build software for real-world operations, from product workflows and backend s
 
 ### [AfyaBridge Cloud Security](https://github.com/larrymiami/Afyabridge-Cloud-Security)
 
-A production-style, multi-country cloud-security lab for a fictional community-health organization on Google Cloud.
+A multi-country cloud-security reference implementation for a fictional community-health organization on Google Cloud.
 
 - Country-isolated landing-zone, IAM, network, data-protection, workload, observability, and public-edge architecture.
 - Terraform foundation with static validation and explicit live-validation boundaries.
 - Application security baseline with deny-by-default authorization, audit events, persistence, concurrency controls, and offline-sync safeguards.
-- Shift-left CI pipeline covering secrets, dependencies, CodeQL, Terraform/package/container scanning, OpenAPI drift, OPA/Rego, exceptions, and generated evidence.
-- Supply-chain controls covering pinned workflow/build inputs, SBOMs, separated build/sign identities, keyless Cosign signing, GitHub attestations, provenance verification, revocation policy, and fail-closed compromise tests.
-- Current roadmap: **v0.7 infrastructure, v0.8 security pipeline, and v0.9 supply-chain security in review**.
+- Completed shift-left security pipeline covering secrets, dependencies, CodeQL, Terraform/package/container scanning, OpenAPI drift, OPA/Rego, exceptions, generated evidence, and a fail-closed security verdict.
+- Completed software supply-chain controls covering immutable workflow/build inputs, SBOMs, separated build/sign identities, keyless Cosign signing, GitHub attestations, provenance verification, revocation policy, and negative compromise tests.
+- Cloud posture and governance work covering machine-readable desired state, drift decisions, finding lifecycle, remediation SLAs, governed exceptions, and run-bound reporting that keeps repository evidence separate from live-cloud state.
+- Current roadmap: **v0.8 security pipeline and v0.9 supply-chain security completed; v0.7 live GCP deployment and v0.10 posture/governance remain in review.**
 
-**Focus:** Google Cloud · Terraform · GitHub Actions · Cloud Security · DevSecOps · Software Supply Chain
+**Focus:** Google Cloud · Terraform · GitHub Actions · Cloud Security · DevSecOps · Software Supply Chain · Posture Governance
 
 ---
 
@@ -44,7 +45,7 @@ A Kenya-first veterinary practice platform designed around clinic, mobile, mixed
 
 ### Ticket Trove Africa
 
-A two-sided event-ticketing platform for attendees and organizers, built around East African payment and operational realities.
+A two-sided East African event-ticketing platform for attendees and organizers, with mobile-money payments, inventory concurrency, ticket validation, and organizer operations.
 
 - Next.js 16 / React 19 frontend with a Fastify 5 modular-monolith backend.
 - PostgreSQL + Redis ticket inventory, reservation-at-checkout, order lifecycle, and concurrency controls.
