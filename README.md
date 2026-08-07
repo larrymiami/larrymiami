@@ -1,89 +1,84 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# Larry Miami
 
-<p>Sadly i got <b>LOCKED OUT</b> of my first account <td><a href="https://github.com/miami78"><b>HERE</b></a>, anywho! </p>
+**Product Engineer · Secure Cloud Systems**
 
-<p>Welcome to my page! </br> I'm Larry, Product Engineer from <img src="https://flagcdn.com/32x24/ke.png" width="20"/> <b>Nairobi, Kenya</b>
+Nairobi, Kenya · [Portfolio](https://miami-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/larrymiami/)
 
-- I’m passionate about FrontEnd architecture, design systems and building UI Components using React, TypeScript, and CSS-in-JS (Emotion).
-- 🌱  I’m currently learning React Native.
-- 💬  Ask me about anything related to Javascript, Nextjs, React, GraphQL
+I build software for real-world operations, from product workflows and backend systems to cloud infrastructure, DevSecOps, and security. I care about the system around the interface: identity, authorization, data boundaries, delivery, observability, failure modes, and evidence that controls actually work.
 
-Areas of Expertise:
-• Design Systems
-• Front-end Engineering
-• Component Development
-• Accessibility
+## What I work across
 
-Core Technologies: 
-• Front-end Development — React, TypeScript, Emotion, and Styled-component
-• Marketing — Google Analytics, MailChimp
-• Team Management — Trello, Slack, Pivotal Tracker
+| Product Engineering | Backend & Data | Cloud Engineering | Security & DevSecOps |
+| --- | --- | --- | --- |
+| React, Next.js, TypeScript, workflow modelling, design systems, offline-aware UX | Node.js, Fastify, PostgreSQL, MongoDB, Redis, GraphQL, REST | Google Cloud, Cloud Run, Cloud SQL, VPC, IAM, Terraform, logging, monitoring | Threat modelling, least privilege, keyless CI/CD, secrets, IaC security, application security |
 
+## Selected engineering work
 
-<h3>Lets Connect</h3>
+### [AfyaBridge Cloud Security](https://github.com/larrymiami/Afyabridge-Cloud-Security)
 
-<p><a href="https://twitter.com/miamilarry78" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/larrymiami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+A production-style, multi-country cloud-security lab for a fictional community-health organization on Google Cloud.
 
+- Country-isolated landing-zone, IAM, network, data-protection, workload, observability, and public-edge architecture.
+- Terraform foundation with static validation and explicit live-validation boundaries.
+- Application security baseline with deny-by-default authorization, audit events, persistence, concurrency controls, and offline-sync safeguards.
+- Shift-left CI pipeline covering secrets, dependencies, CodeQL, Terraform/package/container scanning, OpenAPI drift, OPA/Rego, exceptions, and generated evidence.
+- Supply-chain controls covering pinned workflow/build inputs, SBOMs, separated build/sign identities, keyless Cosign signing, GitHub attestations, provenance verification, revocation policy, and fail-closed compromise tests.
+- Current roadmap: **v0.7 infrastructure, v0.8 security pipeline, and v0.9 supply-chain security in review**.
 
-<h3>Languages and Tools</h3>
+**Focus:** Google Cloud · Terraform · GitHub Actions · Cloud Security · DevSecOps · Software Supply Chain
 
-<div style="display:flex; flex-direction: row">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  
+---
 
-<h3>OpenSource Projects</h3>
+### PawSuite
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <td><a href="https://github.com/miami78/webpack5-react-boilerplate"><b>webpack5-react-boilerplate</b></a>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/miami78/webpack5-react-boilerplate?style=for-the-badge"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/miami78/webpack5-react-boilerplate?style=for-the-badge"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/miami78/webpack5-react-boilerplate?style=for-the-badge"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/miami78/webpack5-react-boilerplate?style=for-the-badge"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/miami78/nextjs-starter-pack"><b>nextjs-starter-pack</b></a>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/miami78/nextjs-starter-pack?style=for-the-badge"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/miami78/nextjs-starter-pack?label=FORKS&style=for-the-badge"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/miami78/nextjs-starter-pack?label=ISSUES&style=for-the-badge"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/miami78/nextjs-starter-pack?style=for-the-badge"/></td>
-    </tr>
-        <tr>
-      <td><a href="https://github.com/miami78/nextjs-mui-boilerplate"><b>nextjs-mui-boilerplate</b></a>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/miami78/nextjs-mui-boilerplate?style=for-the-badge"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/miami78/nextjs-mui-boilerplate?label=FORKS&style=for-the-badge"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/miami78/nextjs-mui-boilerplate?label=ISSUES&style=for-the-badge"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/miami78/nextjs-mui-boilerplate?style=for-the-badge"/></td>
-    </tr>
-  <tbody>
-</table>
+A Kenya-first veterinary practice platform designed around clinic, mobile, mixed-practice, and field workflows.
 
-![Miami's github stats](https://github-readme-stats.vercel.app/api?username=larrymiami)
+- Workflow-first operating model across clinical work, inventory, billing, payments, and field operations.
+- Implemented identity and tenancy foundation with PostgreSQL row-level security and browser-safe authentication boundaries.
+- Offline model separates local drafts from server-authoritative final actions.
+
+**Focus:** Product systems · PostgreSQL · multi-tenancy · offline-aware workflows · security boundaries  
+[Open product](https://pawsuite-web.vercel.app/) · [Portfolio](https://miami-portfolio.vercel.app/)
+
+---
+
+### Ticket Trove Africa
+
+A two-sided event-ticketing platform for attendees and organizers, built around East African payment and operational realities.
+
+- Next.js 16 / React 19 frontend with a Fastify 5 modular-monolith backend.
+- PostgreSQL + Redis ticket inventory, reservation-at-checkout, order lifecycle, and concurrency controls.
+- KCB Buni / M-PESA payment callbacks, safe inventory release, ticket issuance, dynamic QR/OTP validation, and transfers.
+- Docker + GitHub Actions delivery pipeline with migrations, health checks, and deployment safeguards.
+
+**Focus:** Platform engineering · Fastify · PostgreSQL · Redis · payments · transactional workflows  
+[Open product](https://tickettroveafrica.com/) · [Portfolio](https://miami-portfolio.vercel.app/)
+
+---
+
+### [Shamiri Supervisor Copilot](https://github.com/larrymiami/Shamiri-Supervisor-Copilot)
+
+An AI-assisted review workflow for supervisors auditing Fellow-led mental-health sessions for quality and safety.
+
+- Structured AI analysis with schema validation.
+- Human-in-the-loop validate / reject / override workflow.
+- Human-reviewed final status remains the system of record.
+- Next.js 16, PostgreSQL, Prisma, OpenAI, Vitest, and Playwright.
+
+**Focus:** AI product engineering · human-in-the-loop systems · safety workflows · full-stack TypeScript
+
+## How I think about engineering
+
+**Product first.** Understand the workflow, actors, constraints, and failure modes before choosing the architecture.
+
+**Security by design.** Identity, authorization, data isolation, auditability, recovery, and delivery controls belong in the system model from the beginning.
+
+**Evidence over claims.** I separate what is designed, what is implemented, and what has actually been validated.
+
+## Current focus
+
+My current work sits at the intersection of **product engineering, Google Cloud, cloud security, and DevSecOps**, with implementation-heavy projects that treat security as part of the system rather than a separate layer added after the product is built.
+
+---
+
+If you want the shorter version, start with the [portfolio](https://miami-portfolio.vercel.app/) or the [AfyaBridge Cloud Security repository](https://github.com/larrymiami/Afyabridge-Cloud-Security).
