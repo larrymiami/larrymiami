@@ -22,9 +22,10 @@ A production-style, multi-country cloud-security lab for a fictional community-h
 - Terraform foundation with static validation and explicit live-validation boundaries.
 - Application security baseline with deny-by-default authorization, audit events, persistence, concurrency controls, and offline-sync safeguards.
 - Shift-left CI pipeline covering secrets, dependencies, CodeQL, Terraform/package/container scanning, OpenAPI drift, OPA/Rego, exceptions, and generated evidence.
-- Current roadmap: **v0.7 infrastructure and v0.8 security pipeline in review**.
+- Supply-chain controls covering pinned workflow/build inputs, SBOMs, separated build/sign identities, keyless Cosign signing, GitHub attestations, provenance verification, revocation policy, and fail-closed compromise tests.
+- Current roadmap: **v0.7 infrastructure, v0.8 security pipeline, and v0.9 supply-chain security in review**.
 
-**Focus:** Google Cloud · Terraform · GitHub Actions · Cloud Security · DevSecOps
+**Focus:** Google Cloud · Terraform · GitHub Actions · Cloud Security · DevSecOps · Software Supply Chain
 
 ---
 
@@ -76,7 +77,7 @@ An AI-assisted review workflow for supervisors auditing Fellow-led mental-health
 
 ## Current focus
 
-I am currently deepening the intersection of **product engineering, Google Cloud, cloud security, and DevSecOps** through implementation-heavy projects rather than treating security as a separate layer added after the product is built.
+My current work sits at the intersection of **product engineering, Google Cloud, cloud security, and DevSecOps**, with implementation-heavy projects that treat security as part of the system rather than a separate layer added after the product is built.
 
 ---
 
