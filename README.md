@@ -54,19 +54,6 @@ A two-sided event-ticketing platform for attendees and organizers, built around 
 **Focus:** Platform engineering · Fastify · PostgreSQL · Redis · payments · transactional workflows  
 [Open product](https://tickettroveafrica.com/) · [Portfolio](https://miami-portfolio.vercel.app/)
 
----
-
-### [Shamiri Supervisor Copilot](https://github.com/larrymiami/Shamiri-Supervisor-Copilot)
-
-An AI-assisted review workflow for supervisors auditing Fellow-led mental-health sessions for quality and safety.
-
-- Structured AI analysis with schema validation.
-- Human-in-the-loop validate / reject / override workflow.
-- Human-reviewed final status remains the system of record.
-- Next.js 16, PostgreSQL, Prisma, OpenAI, Vitest, and Playwright.
-
-**Focus:** AI product engineering · human-in-the-loop systems · safety workflows · full-stack TypeScript
-
 ## How I think about engineering
 
 **Product first.** Understand the workflow, actors, constraints, and failure modes before choosing the architecture.
