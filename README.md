@@ -12,19 +12,20 @@ I build software where product workflows, backend systems, cloud infrastructure,
 | --- | --- | --- | --- |
 | React, Next.js, TypeScript, workflow modelling, design systems, offline-aware UX | Node.js, Fastify, PostgreSQL, MongoDB, Redis, GraphQL, REST | Google Cloud, Cloud Run, Cloud SQL, VPC, IAM, Terraform, logging, monitoring | Threat modelling, least privilege, keyless CI/CD, secrets, IaC security, application security |
 
-## Selected engineering work
+## Projects
 
 ### [AfyaBridge Cloud Security](https://github.com/larrymiami/Afyabridge-Cloud-Security)
 
 A multi-country cloud-security reference implementation for a fictional community-health organization on Google Cloud.
 
 - Country-isolated landing-zone, IAM, network, data-protection, workload, observability, and public-edge architecture.
-- Terraform foundation with static validation and explicit live-validation boundaries.
+- Terraform infrastructure implemented and statically validated across the repository roots.
+- Live-validated Terraform bootstrap control plane covering CMEK-backed remote state, service-account impersonation without downloaded keys, least-privilege steady-state IAM, controlled mutation, temporary-privilege cleanup, and a final zero-change plan.
 - Application security baseline with deny-by-default authorization, audit events, persistence, concurrency controls, and offline-sync safeguards.
 - Completed shift-left security pipeline covering secrets, dependencies, CodeQL, Terraform/package/container scanning, OpenAPI drift, OPA/Rego, exceptions, generated evidence, and a fail-closed security verdict.
 - Completed software supply-chain controls covering immutable workflow/build inputs, SBOMs, separated build/sign identities, keyless Cosign signing, GitHub attestations, provenance verification, revocation policy, and negative compromise tests.
 - Cloud posture and governance work covering machine-readable desired state, drift decisions, finding lifecycle, remediation SLAs, governed exceptions, and run-bound reporting that keeps repository evidence separate from live-cloud state.
-- Current roadmap: **v0.8 security pipeline and v0.9 supply-chain security completed; v0.7 live GCP deployment and v0.10 posture/governance remain in review.**
+- Current roadmap: **v0.8 security pipeline and v0.9 supply-chain security completed; v0.7 remains in review with the bootstrap control plane live-validated and later GCP stacks pending; v0.10 posture/governance remains in review.**
 
 **Focus:** Google Cloud · Terraform · GitHub Actions · Cloud Security · DevSecOps · Software Supply Chain · Posture Governance
 
