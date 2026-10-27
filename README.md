@@ -70,4 +70,4 @@ My current work sits at the intersection of **product engineering, Google Cloud,
 
 ---
 
-If you want the shorter version, start with the [portfolio](https://miami-portfolio.vercel.app/) or the [AfyaBridge Cloud Security repository](https://github.com/larrymiami/Afyabridge-Cloud-Security).
+If you want the shorter version, start with the [portfolio](https://larrymiami.com/) or the [AfyaBridge Cloud Security repository](https://github.com/larrymiami/Afyabridge-Cloud-Security).
