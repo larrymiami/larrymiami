@@ -2,7 +2,7 @@
 
 **Product Engineer · Secure Cloud Systems**
 
-Nairobi, Kenya · [Portfolio](https://miami-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/larrymiami/)
+Nairobi, Kenya · [Portfolio](https://larrymiami.com/) · [LinkedIn](https://www.linkedin.com/in/larrymiami/)
 
 I build software where product workflows, backend systems, cloud infrastructure, and security have to work together. I care about identity, authorization, data boundaries, delivery, observability, failure modes, and evidence that controls actually work.
 
